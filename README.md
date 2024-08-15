@@ -2,7 +2,7 @@
 - 👀 I’m interested in Powerlifting
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on any platform
-- 📫 How to reach me through slack
+- 📫 You can reach me through any of my social platforms
 
 <!---
 MahabaHubba/MahabaHubba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
